@@ -1,0 +1,1 @@
+const solution = (numbers) => numbers.reduce((cur, acc) => cur + acc) / numbers.length
