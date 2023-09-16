@@ -1,0 +1,1 @@
+const solution = (my_string, is_suffix) => my_string.indexOf(is_suffix) + is_suffix.length === my_string.length ? 1 : 0
